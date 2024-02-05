@@ -43,3 +43,4 @@ Out:
  [ 0.00944645]
  [-3.13364187]]
 ```
+![image](https://github.com/sollynoay/UR_kinematics/assets/11170161/1090e684-fa12-4d23-83fc-1ac5d122cbad)
